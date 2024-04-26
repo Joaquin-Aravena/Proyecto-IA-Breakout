@@ -16,7 +16,7 @@ Breakout es un juego clásico de Atari donde el jugador controla una paleta en l
   - **Episódico:** Cada partida comienza desde cero y termina cuando el jugador pierde todas sus vidas o completa el objetivo.
   - **Dinámico:** El estado del juego cambia continuamente en respuesta a las acciones del jugador.
   - **Discreto:** Tanto las acciones como los estados del juego se representan mediante valores discretos.
-- **Agente:** Singular
+  - **Agente:** Singular
   
 ### Representación del estado del juegp
 ```python
