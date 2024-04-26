@@ -8,7 +8,7 @@ Este proyecto semestral, desarrollado como parte del curso de Inteligencia Artif
 
 Breakout es un juego clásico de Atari donde el jugador controla una paleta en la parte inferior de la pantalla y debe rebotar una pelota para destruir una pared de ladrillos en la parte superior. El objetivo es eliminar todos los ladrillos sin dejar que la pelota caiga al vacío. Es un desafío que requiere tanto habilidad como estrategia.
 
-## Requerimientos:
+## Requerimientos
 Es necesario tener instalado:
   - Python 3.11.0
     
