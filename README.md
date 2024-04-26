@@ -12,3 +12,15 @@ Este proyecto semestral para el ramo de Inteligencia Artificial de la Universida
 1. Clona o descarga este repositorio en tu máquina local.
 2. Asegúrate de tener instalado Python 3 y pip.
 3. Instala las dependencias necesarias ejecutando el siguiente comando:
+pip install -r requirements.txt
+4. Ejecuta el programa principal utilizando el siguiente comando:
+python main.py
+
+### Controles
+El agente se controla utilizando las siguientes teclas:
+- Tecla Izquierda: Mueve la paleta hacia la izquierda.
+- Tecla Derecha: Mueve la paleta hacia la derecha.
+- Tecla Espacio: Inicia el juego.
+
+
+
