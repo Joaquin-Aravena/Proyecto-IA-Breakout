@@ -1,4 +1,4 @@
-#Atari Breakout
+# Atari Breakout
 ## Proyecto Semestral de Inteligencia Artificial
 
 ### Descripción
