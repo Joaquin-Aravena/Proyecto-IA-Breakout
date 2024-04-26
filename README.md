@@ -25,13 +25,13 @@ pip install gymnasium[atari]
 ```
 pip install gymnasium[accept-rom-license]
 ```
-## Librerias
+### Librerias
 ```
 import gymnasium
 import keyboard
 ```
 
-### Ambiente
+## Ambiente
 
 - **Tipo de Ambiente:**
   - **Observable:** Se puede observar el estado completo del juego en la pantalla.
@@ -41,7 +41,7 @@ import keyboard
   - **Discreto:** Tanto las acciones como los estados del juego se representan mediante valores discretos.
   - **Agente:** Singular
   
-### Representación del estado del juegp
+## Representación del estado del juegp
 ```python
 estado_juego = {
     "posicion_paleta": (x, y),  # Coordenadas de la paleta
@@ -52,7 +52,7 @@ estado_juego = {
 }
 ```
 
-### Representación de las Acciones
+## Representación de las Acciones
 
 En nuestro juego, las acciones se representan mediante números discretos que indican la dirección del movimiento de la paleta. Es simple y directo:
 
