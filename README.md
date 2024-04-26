@@ -17,6 +17,17 @@ Breakout es un juego clásico de Atari donde el jugador controla una paleta en l
   - **Dinámico:** El estado del juego cambia continuamente en respuesta a las acciones del jugador.
   - **Discreto:** Tanto las acciones como los estados del juego se representan mediante valores discretos.
 - **Agente:** Singular
+  
+### representación del estado del juegp
+```python
+estado_juego = {
+    "posicion_paleta": (x, y),  # Coordenadas de la paleta
+    "posicion_pelota": (x, y),  # Coordenadas de la pelota
+    "disposicion_ladrillos": [[1, 0, 1, 0, 1], [1, 0, 1, 0, 1], ...],  # Matriz que representa los ladrillos
+    "direccion_pelota": (dx, dy),  # Dirección de la pelota
+    "velocidad_pelota": v  # Velocidad de la pelota
+}
+```
 
 ### Representación de las Acciones
 
@@ -34,6 +45,3 @@ acciones = {
     1: "Mover izquierda",
     2: "Mover derecha"
 }
-
-```hola
-lalala
