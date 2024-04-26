@@ -2,7 +2,7 @@
 
 ## Proyecto Semestral de Inteligencia Artificial
 
-Este proyecto semestral, desarrollado como parte del curso de Inteligencia Artificial en la Universidad, consiste en la implementación de un agente inteligente para el juego Breakout utilizando el entorno de Gym.
+Este proyecto semestral, desarrollado como parte del curso de Inteligencia Artificial en la Universidad de Concepción, consiste en la implementación de un agente inteligente para el juego Breakout utilizando el entorno de Gym.
 
 ## Descripción
 
