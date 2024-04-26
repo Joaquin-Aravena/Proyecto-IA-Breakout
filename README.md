@@ -9,11 +9,17 @@ Breakout es...
 - **Tipo:** Observacional, Determinista, Estático, Discreto, Secuencial
 - **Agente:** Singular
 
-````hola```
-holii
+## Representación de las acciones:
 
-##Representación de las acciones:
-Podemos representar las acciones como números discretos que indican la dirección en la que se mueve la paleta. Por ejemplo, 0 podría ser no moverse, 1 moverse hacia la izquierda y 2 hacia la derecha.
+En nuestro juego, las acciones se representan mediante números discretos que indican la dirección del movimiento de la paleta. Es simple y directo: 
+
+- **0**: No mover la paleta.
+- **1**: Mover la paleta hacia la izquierda.
+- **2**: Mover la paleta hacia la derecha.
+
+Aquí tienes una vista rápida de cómo se relacionan los números con las acciones:
+
+```python
 acciones = {
     0: "No mover",
     1: "Mover izquierda",
