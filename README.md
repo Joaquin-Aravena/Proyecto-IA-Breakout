@@ -10,6 +10,12 @@ Breakout es...
 - **Agente:** Singular
 
 ````hola```
+holii
 
-
-
+##Representación de las acciones:
+Podemos representar las acciones como números discretos que indican la dirección en la que se mueve la paleta. Por ejemplo, 0 podría ser no moverse, 1 moverse hacia la izquierda y 2 hacia la derecha.
+acciones = {
+    0: "No mover",
+    1: "Mover izquierda",
+    2: "Mover derecha"
+}
