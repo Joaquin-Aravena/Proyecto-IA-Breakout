@@ -12,8 +12,7 @@ Breakout es un juego clásico de Atari donde el jugador controla una paleta en l
 Es necesario tener instalado:
   - Python 3.11.0
     
-### Lanzamiento para desarrollo
-1. Clonar el repositorio
+### Instalar 
 ```
 pip install gymnasium
 ```
@@ -26,6 +25,10 @@ pip install gymnasium[atari]
 ```
 pip install gymnasium[accept-rom-license]
 ```
+## Librerias
+´´´
+import gymnasium
+´´´
 
 ### Ambiente
 
