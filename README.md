@@ -9,8 +9,7 @@ Breakout es...
 - **Tipo:** Observacional, Determinista, Estático, Discreto, Secuencial
 - **Agente:** Singular
 
-''''pip install''''
-
+````hola```
 
 
 
