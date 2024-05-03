@@ -41,7 +41,7 @@ import keyboard
   - **Discreto:** Tanto las acciones como los estados del juego se representan mediante valores discretos.
   - **Agente:** Singular
   
-## Representación del estado del juegp
+## Representación del estado del juego
 ```python
 estado_juego = {
     "posicion_paleta": (x, y),  # Coordenadas de la paleta
